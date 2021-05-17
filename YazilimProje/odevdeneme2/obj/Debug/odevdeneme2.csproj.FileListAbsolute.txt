@@ -1,0 +1,15 @@
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\odevdeneme2.exe.config
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\odevdeneme2.exe
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\bin\Debug\odevdeneme2.pdb
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.csprojAssemblyReference.cache
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.Form1.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.Properties.Resources.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.csproj.GenerateResource.cache
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.csproj.CoreCompileInputs.cache
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.exe
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.pdb
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.KayıtEkranı.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.Adminpanel.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.AlıcıVeSatıcıBilgileri.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.AlısverisEkranı.resources
+C:\Users\umutr\source\repos\odevdeneme2\odevdeneme2\obj\Debug\odevdeneme2.AraPanel.resources
